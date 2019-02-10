@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: a2e3fd308ac0eba46a9db9391ce9dd7f
   - enabled: 1
-    path: Assets/Scenes/Level1.unity
+    path: Assets/Scenes/Roll a ball.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Fps.unity
+    guid: ead1fab8eb623e24a94bb1a2426facf8
   m_configObjects: {}
